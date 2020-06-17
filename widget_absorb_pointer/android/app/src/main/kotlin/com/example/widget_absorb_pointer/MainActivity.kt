@@ -1,4 +1,4 @@
-package com.example.widget_absord_pointer
+package com.example.widget_absorb_pointer
 
 import io.flutter.embedding.android.FlutterActivity
 
